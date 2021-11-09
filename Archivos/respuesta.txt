@@ -1,0 +1,2 @@
+Carpeta vacia al comienzo de hacer commit no se veian los cambios reflejados en el repositorio pero posterior/ de crear respuesta.txt se observan los cambios ejecutados. "Las carpetas vacias no
+se consideran como cambios o adiciones de nuevos archivos al proyecto."
