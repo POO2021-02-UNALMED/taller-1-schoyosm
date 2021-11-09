@@ -1,1 +1,5 @@
-Sara Hoyos, edad 23 años. Mis aspiraciones con la materia es aprender y entender a profundidar lenguajes de programación de java y python para obtener mejores habilidades a nivel profesional. 
+Sara Hoyos, edad 23 años. Mis aspiraciones con la materia es aprender y entender a profundidar lenguajes de programación de java y python para obtener mejores habilidades a nivel profesional.
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+- Es importante no modificar dos archivos al mismo tiempo porque GitHub lo sobreescribe y no guarda los cambios en el archivo de nuestro interés.
+ 
